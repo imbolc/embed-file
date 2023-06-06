@@ -1,5 +1,5 @@
 [package]
-description = "Embeds files content the binary in release mode, but loads it from the fs in debug"
+description = "Embeds files content into the binary in release mode, but loads it from the fs in debug"
 edition = "2021"
 license = "MIT"
 name = "embed-file"

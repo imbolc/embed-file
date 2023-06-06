@@ -1,7 +1,7 @@
 //! # embed-file
 //!
 //! A simplified version of [rust-embed][] for single files instead of folders.
-//! Embeds files content the binary in release mode, but loads it from the fs in debug.
+//! Embeds files content into the binary in release mode, but loads it from the fs in debug.
 //!
 //! The goal of is to avoid unnecessary recompilations when an included by e.g. [`include_str`]
 //! file change.
