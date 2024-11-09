@@ -13,8 +13,8 @@ file change.
 ## Usage
 
 ```rust,no_run
-let my_file_contents = embed_file::embed_string!("path/to/my_file.txt");
-println!("{}", my_file_contents);
+let my_string = embed_file::embed_string!("path/to/my-text.txt");
+let my_image = embed_file::embed_bytes!("path/to/my-image.jpg");
 ```
 
 ## Contributing

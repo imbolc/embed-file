@@ -4,6 +4,6 @@ edition = "2021"
 license = "MIT"
 name = "embed-file"
 repository = "https://github.com/imbolc/embed-file"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
