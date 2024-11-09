@@ -7,6 +7,3 @@ repository = "https://github.com/imbolc/embed-file"
 version = "0.1.0"
 
 [dependencies]
-
-[dev-dependencies]
-rusty-hook = "0.11"
